@@ -1,0 +1,2 @@
+forest = #226644
+paper = #fafafa
